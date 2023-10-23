@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Power BI , CI/CD with Github, CI/CD with Azure**
 
-- 💬 Ask me about **ReactJs, Symfony, Deep Learning, NLP (Natural Language Processing), NodeJs, Deployment sites web with Nginx**
+- 💬 Ask me about **ReactJs, Symfony, Deep Learning, NLP (Natural Language Processing), NodeJs, Deployment sites web with Nginx and docker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
