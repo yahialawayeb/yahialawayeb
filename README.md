@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yahia Lawayeb</h1>
-<h3 align="center">Data Scientist | Fullstack Developer </h3>
+<h3 align="center">Data Scientist || Full stack Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahialawayeb&label=Profile%20views&color=0e75b6&style=flat" alt="yahialawayeb" /> </p>
 
